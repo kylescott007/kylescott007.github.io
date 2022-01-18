@@ -91,115 +91,108 @@ many great resources that benefit you and your pursuit in knowledge.
 ### [Project Gutenberg](https://www.gutenberg.org/)
   
   Details:
+  Choose among free epub and Kindle eBooks, download them or read them online. You will find the world’s great literature here, with focus on older works for which U.S. copyright has expired.
   
-
 ### [Paul's Online Notes](https://tutorial.math.lamar.edu/)
   
   Details:
-  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world. 
+   The intent of this site is to provide a complete set of free online (and downloadable) notes and/or tutorials for classes that [Paul Dawkins] teach at Lamar University.
   
 ### [Saylor Academy](https://learn.saylor.org/)
   
   Details:
+  Learn new skills or earn credit towards a degree at your own pace, with no deadlines, using free courses from Saylor Academy. Saylor Direct Credit courses can help you complete your degree with significant tuition savings! We work with colleges and universities to provide zero-tuition transfer credit for many of our free, self-paced, online courses that are recommended for credit by the American Council on Education (ACE). Our Saylor Direct Credit courses help degree-seekers overcome barriers of cost, time, and location.
   
-
 ### [Khan Academy](https://www.khanacademy.org/)
   
   Details:
-  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world. 
+  Our mission is to provide a free, world-class education to anyone, anywhere.
   
 ### [Teach Yourself Computer Science](https://teachyourselfcs.com/)
   
   Details:
-  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world. 
+  If you’re a self-taught engineer or bootcamp grad, you owe it to yourself to learn computer science. Thankfully, you can give yourself a world-class CS education without investing years and a small fortune in a degree program 💸.
   
 ### [College Board](https://www.collegeboard.org/)
   
   Details:
-  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world. 
+  Earn College Credit with CLEP. Register to take a CLEP exam and receive college credit at 2,900 colleges. 
 
 ### [Codewars](https://www.codewars.com/)
   
   Details:
-  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world. 
-
-## Resources
-
-
-
+  Achieve mastery through challenge. Improve your development skills by training with your peers using coding challenges.
+  
 ## Tools
 
 ### [GitHub](https://github.com/)
   
   Details:
-  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world.
+  Where the world builds software. Millions of developers and companies build, ship, and maintain their software on GitHub—the largest and most advanced development platform in the world.
 
 ### [Kaggle](https://www.kaggle.com/)
   
   Details:
-  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world.
+  Kaggle, a subsidiary of Google LLC, is an online community of data scientists and machine learning practitioners. Kaggle allows users to find and publish data sets, explore and build models in a web-based data-science environment, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges.
 
 ### [Google Colaboratory](https://colab.research.google.com/)
   
   Details:
-  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world.
+  Colab notebooks allow you to combine executable code and rich text in a single document, along with images, HTML, LaTeX and more. When you create your own Colab notebooks, they are stored in your Google Drive account. You can easily share your Colab notebooks with co-workers or friends, allowing them to comment on your notebooks or even edit them.
 
 ### [Replit](https://replit.com/)
   
   Details:
-  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world.
+  Replit is a simple yet powerful online IDE, Editor, Compiler, Interpreter, and REPL. Code, compile, run, and host in 50+ programming languages.
 
 ### [Tools Unite](https://tools-unite.com/)
   
   Details:
-  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world.
+  Miscellaneous tools used for productivity and ease of life.
+  - Speed Reader
+  - Pomodoro Timer
+  - Random Generator
 
 ### [AF Bullet Shaping Tool](https://af-vcd.github.io/pdf-bullets/)
   
   Details:
-  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world.
-
-### [Tools Unite](https://tools-unite.com/)
-  
-  Details:
-  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world.
+  An intelligent USAF ERP/OPR/Award bullet shaper with built-in thesaurus, auto-abbreviation, and bullet spacing(wall-to-wall format).
 
 ### [Microsoft To Do](https://to-do.live.com/)
   
   Details:
-  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world.
+  Microsoft To Do is a cloud-based task management application. It allows users to manage their tasks from a smartphone, tablet and computer.
 
 ### [Trello (Free Kanban Style Boards)](https://trello.com/)
   
   Details:
-  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world.
+  Trello is a web-based, Kanban-style, list-making application.
+  
   
 ### [TickTick](https://ticktick.com/)
   
   Details:
-  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world.
+  TickTick is one of the many to-do list apps available for Android, but its feature-set and presentation make it one of the leading champs.
+
+## Resources
+
+### [GitHub Student Developer Pack](https://education.github.com/pack)
+  
+  Details:
+  Learn to ship software like a pro. There's no substitute for hands-on experience. But for most students, real world tools can be cost-prohibitive. That's why we created the GitHub Student Developer Pack with some of our partners and friends. 
+  
+### [MDN Web Docs](https://developer.mozilla.org/en-US/)
+  
+  Details:
+  Mozilla Developer Network, formerly Mozilla Developer Center, is the official Mozilla website for development documentation of web standards and Mozilla projects.
+
+### [Linkedin](https://www.linkedin.com/)
+  
+  Details:
+  Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.
 
 ## Support and Contact
 
-Having trouble with any links
+updated as of: 19 JAN 2022
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-
-
+Having trouble with any links or questions about the content. Just leave an [issue](https://github.com/kylescott007/kylescott007.github.io/issues) and I can answer any need. Thanks!
