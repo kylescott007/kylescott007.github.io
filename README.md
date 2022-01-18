@@ -1,7 +1,7 @@
 # Welcome to the Analysts Tool Belt
 An analysts one-stop shop for free education and resources.
 
-## Analysts Tool Belt
+## Notice
 The following is a curated list of links and details of tools, resources, and education hubs. This will not only include information and academics for analytics but,
 many great resources that benefit you and your pursuit in knowledge.
 
