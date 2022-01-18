@@ -65,28 +65,119 @@ many great resources that benefit you and your pursuit in knowledge.
   The O’Reilly learning platform offers exclusive live training, interactive learning, a certification experience, books, videos, and more, making it easier for our  customers to develop the expertise they need to get ahead. And our books have been heralded for decades as the definitive place to learn about the technologies that are shaping the future.
   
   Recommended Content:
-  - 
+  1. [Rec: Data Analytics](https://learning.oreilly.com/playlists/a4814243-8b86-4862-ba50-990e29d8963f)
+  2. [Rec: Data Science using Python and SQL](https://learning.oreilly.com/playlists/8de08fb3-37e4-46ad-8fca-0d78fc2d25e8)
   
 ### [M.I.T. Open Courseware](https://ocw.mit.edu/)
   No account needed to use this awsome place.
   
   Details:
+  MIT OpenCourseWare (OCW) is a web-based publication of virtually all MIT course content. OCW is open and available to the world and is a permanent MIT activity. 
   
   Recommended Content:
-  -
+  1. [Computer Science Courses](https://ocw.mit.edu/courses/find-by-topic/#cat=mathematics)
+  2. [Mathematics](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience)
 
 ### [Modern States](https://modernstates.org/)
   
   Details:
+  Modern States Education Alliance™ is a non-profit dedicated to making a high quality college education free of cost and accessible to any person who seeks one. Modern States’ initial program, Freshman Year for Free, is intended to let students earn up to one year of college credit without tuition or textbook expense.
+
+### [freeCodeCamp](https://www.freecodecamp.org/)
   
-  Recommended Content:
-  - 
+  Details:
+  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world. 
+  
+### [Project Gutenberg](https://www.gutenberg.org/)
+  
+  Details:
+  
+
+### [Paul's Online Notes](https://tutorial.math.lamar.edu/)
+  
+  Details:
+  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world. 
+  
+### [Saylor Academy](https://learn.saylor.org/)
+  
+  Details:
+  
+
+### [Khan Academy](https://www.khanacademy.org/)
+  
+  Details:
+  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world. 
+  
+### [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+  
+  Details:
+  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world. 
+  
+### [College Board](https://www.collegeboard.org/)
+  
+  Details:
+  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world. 
+
+### [Codewars](https://www.codewars.com/)
+  
+  Details:
+  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world. 
 
 ## Resources
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kylescott007/kylescott007.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
 
 ## Tools
+
+### [GitHub](https://github.com/)
+  
+  Details:
+  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world.
+
+### [Kaggle](https://www.kaggle.com/)
+  
+  Details:
+  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world.
+
+### [Google Colaboratory](https://colab.research.google.com/)
+  
+  Details:
+  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world.
+
+### [Replit](https://replit.com/)
+  
+  Details:
+  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world.
+
+### [Tools Unite](https://tools-unite.com/)
+  
+  Details:
+  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world.
+
+### [AF Bullet Shaping Tool](https://af-vcd.github.io/pdf-bullets/)
+  
+  Details:
+  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world.
+
+### [Tools Unite](https://tools-unite.com/)
+  
+  Details:
+  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world.
+
+### [Microsoft To Do](https://to-do.live.com/)
+  
+  Details:
+  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world.
+
+### [Trello (Free Kanban Style Boards)](https://trello.com/)
+  
+  Details:
+  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world.
+  
+### [TickTick](https://ticktick.com/)
+  
+  Details:
+  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world.
 
 ## Support and Contact
 
