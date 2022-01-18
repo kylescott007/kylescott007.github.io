@@ -8,7 +8,7 @@ many great resources that benefit you and your pursuit in knowledge.
 ## Education Hubs
 
 ### [MWR Digital Library](https://www.militaryonesourceconnect.org/achievesolutions/en/militaryonesource/Content.do?contentId=27777)
-  Requires Military One Source [account](https://www.militaryonesource.mil/).[^1]
+  Requires Military One Source [account](https://www.militaryonesource.mil/).
   
   Details:
   Select from the featured items or use the search app to access online books, films, music and more. All of the libraries are free for active duty service members, veterans in transition, and immediate family.
@@ -21,7 +21,7 @@ many great resources that benefit you and your pursuit in knowledge.
   - EBSCO DOD Learning Express Test Prep (CLEP and DSST practice tests and guides)
   - Morningstar Investment Research Center
   
-### [Digital U](https://digitalu.udemy.com/organization/home/)[^1]
+### [Digital U](https://digitalu.udemy.com/organization/home/)
   sign-up [link](https://digitalu.af.mil/)
   
   Details:
@@ -58,7 +58,7 @@ many great resources that benefit you and your pursuit in knowledge.
   16. [CompTIA Cloud+](https://digitalu.udemy.com/learning-paths/839594/)
   17. [Practical Data Science Curriculum](https://digitalu.udemy.com/learning-paths/2332672/)
   
-### [O'Reilly Learning Online](https://learning.oreilly.com/)[^2]
+### [O'Reilly Learning Online](https://learning.oreilly.com/)
   sign-up [link](https://www.oreilly.com/self-registration/dod-mwr-libraries-all-services/)
   
   Details:
