@@ -6,7 +6,7 @@ The following is a curated list of links and details of tools, resources, and ed
 many great resources that benefit you and your pursuit in knowledge.
 
 ## Education Hubs
-###[MWR Digital Library](https://www.militaryonesourceconnect.org/achievesolutions/en/militaryonesource/Content.do?contentId=27777)
+### [MWR Digital Library](https://www.militaryonesourceconnect.org/achievesolutions/en/militaryonesource/Content.do?contentId=27777)
   Requires Military One Source [account](https://www.militaryonesource.mil/).
   
   Details:
@@ -19,7 +19,7 @@ many great resources that benefit you and your pursuit in knowledge.
   - EBSCO DOD Learning Express Test PREP (CLEP and DSST practice tests and guides)
   - MORNINGSTAR INVESTMENT RESEARCH CENTER
   
-###[Digital U](https://digitalu.udemy.com/organization/home/)
+### [Digital U](https://digitalu.udemy.com/organization/home/)
   sign-up [link](https://digitalu.af.mil/)
   
   Details:
