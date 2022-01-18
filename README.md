@@ -30,7 +30,7 @@ many great resources that benefit you and your pursuit in knowledge.
   Our curated collection of business and technical courses help companies, governments, and nonprofits go further by placing learning at the center of their strategies.
   
   Recommended Learning Paths (Pick any you are interested in):
-  **The following paths may have overlapping courses**
+  _The following paths may have overlapping courses_
   1. SkivvyU Line-up
     - [SkivvyU: Core](https://digitalu.udemy.com/learning-paths/2264380/)
     - [SkivvyU: Executing the Mission](https://digitalu.udemy.com/learning-paths/2264442/)
