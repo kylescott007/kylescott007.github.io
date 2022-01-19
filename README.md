@@ -75,8 +75,8 @@ many great resources that benefit you and your pursuit in knowledge.
   MIT OpenCourseWare (OCW) is a web-based publication of virtually all MIT course content. OCW is open and available to the world and is a permanent MIT activity. 
   
   Recommended Content:
-  1. [Computer Science Courses](https://ocw.mit.edu/courses/find-by-topic/#cat=mathematics)
-  2. [Mathematics](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience)
+  1. [Computer Science Courses](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience)
+  2. [Mathematics](https://ocw.mit.edu/courses/find-by-topic/#cat=mathematics)
 
 ### [Modern States](https://modernstates.org/)
   
