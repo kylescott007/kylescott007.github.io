@@ -153,6 +153,15 @@ many great resources that benefit you and your pursuit in knowledge.
   - Pomodoro Timer
   - Random Generator
 
+
+### [Lightning Within Five](https://www.lightningwithinfive.com/)
+  
+  Details:
+  Software solutions to Air Force problems.
+  
+  Recommended feature:
+  - [Bullet Time](https://www.lightningwithinfive.com/BulletTime/) 
+
 ### [AF Bullet Shaping Tool](https://af-vcd.github.io/pdf-bullets/)
   
   Details:
@@ -190,9 +199,14 @@ many great resources that benefit you and your pursuit in knowledge.
   
   Details:
   Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.
+  
+### [StackOverflow](https://stackoverflow.com/)
+  
+  Details:
+  Stack Overflow is a question and answer website for professional and enthusiast programmers.
 
 ## Support and Contact
 
-updated as of: 19 JAN 2022
+updated as of: 22 JAN 2022
 
 Having trouble with any links or questions about the content. Just leave an [issue](https://github.com/kylescott007/kylescott007.github.io/issues) and I can answer any need. Thanks!
