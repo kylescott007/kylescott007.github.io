@@ -78,6 +78,11 @@ many great resources that benefit you and your pursuit in knowledge.
   1. [Computer Science Courses](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience)
   2. [Mathematics](https://ocw.mit.edu/courses/find-by-topic/#cat=mathematics)
 
+### [College Compendium](https://collegecompendium.org/)
+  
+  Details:
+  College Compendium serves a single purpose: we help you find your next computer science resource or curriculum to audit. Regardless of where you are in your self-guided learning journey, we've compiled CS course resources that are relevant to your skill-level, time-commitment, and preferred learning style so you'll never hit a dead end.
+
 ### [Modern States](https://modernstates.org/)
   
   Details:
@@ -207,6 +212,6 @@ many great resources that benefit you and your pursuit in knowledge.
 
 ## Support and Contact
 
-updated as of: 22 JAN 2022
+updated as of: 17 FEB 2022
 
 Having trouble with any links or questions about the content. Just leave an [issue](https://github.com/kylescott007/kylescott007.github.io/issues) and I can answer any need. Thanks!
