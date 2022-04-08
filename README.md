@@ -92,7 +92,13 @@ The following is a curated list of links and details of tools, resources, and ed
 #### [freeCodeCamp](https://www.freecodecamp.org/)
   
   Details:
-  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world. 
+  To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world.
+  
+#### [Z-Library project](https://en.z-lib.org/)
+
+  Details:
+  Part of Z-Library project. The world's largest ebook library.
+  Free downloadable epub files for e-readers.
   
 #### [Project Gutenberg](https://www.gutenberg.org/)
   
@@ -102,7 +108,7 @@ The following is a curated list of links and details of tools, resources, and ed
 #### [Paul's Online Notes](https://tutorial.math.lamar.edu/)
   
   Details:
-   The intent of this site is to provide a complete set of free online (and downloadable) notes and/or tutorials for classes that [Paul Dawkins] teach at Lamar University.
+  The intent of this site is to provide a complete set of free online (and downloadable) notes and/or tutorials for classes that [Paul Dawkins] teach at Lamar University.
   
 #### [Saylor Academy](https://learn.saylor.org/)
   
