@@ -4,6 +4,8 @@ An analysts one-stop shop.
 # Notice
 The following is a curated list of links and details of tools, resources, and education hubs. This will not only include information and academics for analytics but, many great resources that benefit you and your pursuit in knowledge.
 
+---
+
 # Education Hubs
 
 #### [MWR Digital Library](https://www.militaryonesourceconnect.org/achievesolutions/en/militaryonesource/Content.do?contentId=27777)
@@ -126,7 +128,9 @@ The following is a curated list of links and details of tools, resources, and ed
   
   Details:
   Achieve mastery through challenge. Improve your development skills by training with your peers using coding challenges.
-  
+
+---
+
 # Tools
 
 #### [GitHub](https://github.com/)
@@ -157,7 +161,6 @@ The following is a curated list of links and details of tools, resources, and ed
   - Pomodoro Timer
   - Random Generator
 
-
 #### [Lightning Within Five](https://www.lightningwithinfive.com/)
   
   Details:
@@ -171,7 +174,7 @@ The following is a curated list of links and details of tools, resources, and ed
   Details:
   An intelligent USAF ERP/OPR/Award bullet shaper with built-in thesaurus, auto-abbreviation, and bullet spacing(wall-to-wall format).
 
-### [Microsoft To Do](https://to-do.live.com/)
+#### [Microsoft To Do](https://to-do.live.com/)
   
   Details:
   Microsoft To Do is a cloud-based task management application. It allows users to manage their tasks from a smartphone, tablet and computer.
@@ -186,6 +189,8 @@ The following is a curated list of links and details of tools, resources, and ed
   
   Details:
   TickTick is one of the many to-do list apps available for Android, but its feature-set and presentation make it one of the leading champs.
+
+---
 
 # Resources
 
@@ -209,8 +214,59 @@ The following is a curated list of links and details of tools, resources, and ed
   Details:
   Stack Overflow is a question and answer website for professional and enthusiast programmers.
 
+---
+
+# Certificate Resources
+  _Note: The following certificate study books and guides can be found on O'Reilly_
+
+#### [CompTIA](https://www.comptia.org/home)
+
+  Details:
+  The Computing Technology Industry Association (CompTIA) is a leading voice and advocate for the $5 trillion global information technology ecosystem; and the estimated 75 million industry and tech professionals who design, implement, manage and safeguard the technology that powers the world’s economy.
+  
+  Recommended Content:
+  - [Security+](https://www.comptia.org/certifications/security)
+  - [Network+](https://www.comptia.org/certifications/network)
+  - [Project+](https://www.comptia.org/certifications/project)
+  - [Data+](https://www.comptia.org/certifications/data)
+
+#### [Microsoft Certifications](https://docs.microsoft.com/en-us/learn/certifications/)
+
+  Details:
+  Microsoft Certifications give a professional advantage by providing globally recognized and industry-endorsed evidence of mastering skills in a digital and cloud businesses.
+  
+  Special:
+  For anyone with a .mil account, Microsoft is offering FREE vouchers for ALL their exams until June 2022. You or your team can obtain as many Microsoft certifications as you want.  The training is free as well. Sign-up [link](https://esi.microsoft.com/)
+
+#### [Tableau Certifications](https://www.tableau.com/learn/certification)
+
+  Details:
+  Tableau helps people see and understand data. Our visual analytics platform is transforming the way people use data to solve problems. See why organizations of all sizes trust Tableau to help them be more data-driven.
+  
+  Certificate:
+  The new Data Analyst certificate using Tableau.[link](https://www.tableau.com/learn/certification/certified-data-analyst)
+
+#### [TensorFlow Developer Certificate](https://www.tensorflow.org/certificate)
+
+  Details:
+  Demonstrate your proficiency in using TensorFlow to solve deep learning and ML problems. Get recognized for your skills and join our Certificate Network.
+
+#### [Cousera](https://www.coursera.org/)
+
+  Details:
+  Coursera partners with more than 200 leading universities and companies to bring flexible, affordable, job-relevant online learning to individuals and organizations worldwide. We offer a range of learning opportunities—from hands-on projects and courses to job-ready certificates and degree programs.
+  
+  Certificate:
+  [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+  This is your path to a career in data analytics. In this program, you’ll learn in-demand skills that will have you job-ready in less than 6 months. No degree or experience required.
+  
+---
+
 # Support and Contact
 
-updated as of: 17 FEB 2022
+updated as of: 04 APR 2022
 
 Having trouble with any links or questions about the content. Just leave an [issue](https://github.com/kylescott007/kylescott007.github.io/issues) and I can answer any need. Thanks!
+
+---
+***
