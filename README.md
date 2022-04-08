@@ -1,13 +1,12 @@
 # Welcome to the Analysts Tool Belt
 An analysts one-stop shop.
 
-## Notice
-The following is a curated list of links and details of tools, resources, and education hubs. This will not only include information and academics for analytics but,
-many great resources that benefit you and your pursuit in knowledge.
+# Notice
+The following is a curated list of links and details of tools, resources, and education hubs. This will not only include information and academics for analytics but, many great resources that benefit you and your pursuit in knowledge.
 
-## Education Hubs
+# Education Hubs
 
-### [MWR Digital Library](https://www.militaryonesourceconnect.org/achievesolutions/en/militaryonesource/Content.do?contentId=27777)
+#### [MWR Digital Library](https://www.militaryonesourceconnect.org/achievesolutions/en/militaryonesource/Content.do?contentId=27777)
   Requires Military One Source [account](https://www.militaryonesource.mil/).
   
   Details:
@@ -21,7 +20,7 @@ many great resources that benefit you and your pursuit in knowledge.
   - EBSCO DOD Learning Express Test Prep (CLEP and DSST practice tests and guides)
   - Morningstar Investment Research Center
   
-### [Digital U](https://digitalu.udemy.com/organization/home/)
+#### [Digital U](https://digitalu.udemy.com/organization/home/)
   sign-up [link](https://digitalu.af.mil/)
   
   Details:
@@ -58,7 +57,7 @@ many great resources that benefit you and your pursuit in knowledge.
   16. [CompTIA Cloud+](https://digitalu.udemy.com/learning-paths/839594/)
   17. [Practical Data Science Curriculum](https://digitalu.udemy.com/learning-paths/2332672/)
   
-### [O'Reilly Learning Online](https://learning.oreilly.com/)
+#### [O'Reilly Learning Online](https://learning.oreilly.com/)
   sign-up [link](https://www.oreilly.com/self-registration/dod-mwr-libraries-all-services/)
   
   Details:
@@ -68,7 +67,7 @@ many great resources that benefit you and your pursuit in knowledge.
   1. [Rec: Data Analytics](https://learning.oreilly.com/playlists/a4814243-8b86-4862-ba50-990e29d8963f)
   2. [Rec: Data Science using Python and SQL](https://learning.oreilly.com/playlists/8de08fb3-37e4-46ad-8fca-0d78fc2d25e8)
   
-### [M.I.T. Open Courseware](https://ocw.mit.edu/)
+#### [M.I.T. Open Courseware](https://ocw.mit.edu/)
   No account needed to use this awsome place.
   
   Details:
@@ -78,79 +77,79 @@ many great resources that benefit you and your pursuit in knowledge.
   1. [Computer Science Courses](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience)
   2. [Mathematics](https://ocw.mit.edu/courses/find-by-topic/#cat=mathematics)
 
-### [College Compendium](https://collegecompendium.org/)
+#### [College Compendium](https://collegecompendium.org/)
   
   Details:
   College Compendium serves a single purpose: we help you find your next computer science resource or curriculum to audit. Regardless of where you are in your self-guided learning journey, we've compiled CS course resources that are relevant to your skill-level, time-commitment, and preferred learning style so you'll never hit a dead end.
 
-### [Modern States](https://modernstates.org/)
+#### [Modern States](https://modernstates.org/)
   
   Details:
   Modern States Education Alliance™ is a non-profit dedicated to making a high quality college education free of cost and accessible to any person who seeks one. Modern States’ initial program, Freshman Year for Free, is intended to let students earn up to one year of college credit without tuition or textbook expense.
 
-### [freeCodeCamp](https://www.freecodecamp.org/)
+#### [freeCodeCamp](https://www.freecodecamp.org/)
   
   Details:
   To help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world. 
   
-### [Project Gutenberg](https://www.gutenberg.org/)
+#### [Project Gutenberg](https://www.gutenberg.org/)
   
   Details:
   Choose among free epub and Kindle eBooks, download them or read them online. You will find the world’s great literature here, with focus on older works for which U.S. copyright has expired.
   
-### [Paul's Online Notes](https://tutorial.math.lamar.edu/)
+#### [Paul's Online Notes](https://tutorial.math.lamar.edu/)
   
   Details:
    The intent of this site is to provide a complete set of free online (and downloadable) notes and/or tutorials for classes that [Paul Dawkins] teach at Lamar University.
   
-### [Saylor Academy](https://learn.saylor.org/)
+#### [Saylor Academy](https://learn.saylor.org/)
   
   Details:
   Learn new skills or earn credit towards a degree at your own pace, with no deadlines, using free courses from Saylor Academy. Saylor Direct Credit courses can help you complete your degree with significant tuition savings! We work with colleges and universities to provide zero-tuition transfer credit for many of our free, self-paced, online courses that are recommended for credit by the American Council on Education (ACE). Our Saylor Direct Credit courses help degree-seekers overcome barriers of cost, time, and location.
   
-### [Khan Academy](https://www.khanacademy.org/)
+#### [Khan Academy](https://www.khanacademy.org/)
   
   Details:
   Our mission is to provide a free, world-class education to anyone, anywhere.
   
-### [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+#### [Teach Yourself Computer Science](https://teachyourselfcs.com/)
   
   Details:
   If you’re a self-taught engineer or bootcamp grad, you owe it to yourself to learn computer science. Thankfully, you can give yourself a world-class CS education without investing years and a small fortune in a degree program 💸.
   
-### [College Board](https://www.collegeboard.org/)
+#### [College Board](https://www.collegeboard.org/)
   
   Details:
   Earn College Credit with CLEP. Register to take a CLEP exam and receive college credit at 2,900 colleges. 
 
-### [Codewars](https://www.codewars.com/)
+#### [Codewars](https://www.codewars.com/)
   
   Details:
   Achieve mastery through challenge. Improve your development skills by training with your peers using coding challenges.
   
-## Tools
+# Tools
 
-### [GitHub](https://github.com/)
+#### [GitHub](https://github.com/)
   
   Details:
   Where the world builds software. Millions of developers and companies build, ship, and maintain their software on GitHub—the largest and most advanced development platform in the world.
 
-### [Kaggle](https://www.kaggle.com/)
+#### [Kaggle](https://www.kaggle.com/)
   
   Details:
   Kaggle, a subsidiary of Google LLC, is an online community of data scientists and machine learning practitioners. Kaggle allows users to find and publish data sets, explore and build models in a web-based data-science environment, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges.
 
-### [Google Colaboratory](https://colab.research.google.com/)
+#### [Google Colaboratory](https://colab.research.google.com/)
   
   Details:
   Colab notebooks allow you to combine executable code and rich text in a single document, along with images, HTML, LaTeX and more. When you create your own Colab notebooks, they are stored in your Google Drive account. You can easily share your Colab notebooks with co-workers or friends, allowing them to comment on your notebooks or even edit them.
 
-### [Replit](https://replit.com/)
+#### [Replit](https://replit.com/)
   
   Details:
   Replit is a simple yet powerful online IDE, Editor, Compiler, Interpreter, and REPL. Code, compile, run, and host in 50+ programming languages.
 
-### [Tools Unite](https://tools-unite.com/)
+#### [Tools Unite](https://tools-unite.com/)
   
   Details:
   Miscellaneous tools used for productivity and ease of life.
@@ -159,7 +158,7 @@ many great resources that benefit you and your pursuit in knowledge.
   - Random Generator
 
 
-### [Lightning Within Five](https://www.lightningwithinfive.com/)
+#### [Lightning Within Five](https://www.lightningwithinfive.com/)
   
   Details:
   Software solutions to Air Force problems.
@@ -167,7 +166,7 @@ many great resources that benefit you and your pursuit in knowledge.
   Recommended feature:
   - [Bullet Time](https://www.lightningwithinfive.com/BulletTime/) 
 
-### [AF Bullet Shaping Tool](https://af-vcd.github.io/pdf-bullets/)
+#### [AF Bullet Shaping Tool](https://af-vcd.github.io/pdf-bullets/)
   
   Details:
   An intelligent USAF ERP/OPR/Award bullet shaper with built-in thesaurus, auto-abbreviation, and bullet spacing(wall-to-wall format).
@@ -177,40 +176,40 @@ many great resources that benefit you and your pursuit in knowledge.
   Details:
   Microsoft To Do is a cloud-based task management application. It allows users to manage their tasks from a smartphone, tablet and computer.
 
-### [Trello (Free Kanban Style Boards)](https://trello.com/)
+#### [Trello (Free Kanban Style Boards)](https://trello.com/)
   
   Details:
   Trello is a web-based, Kanban-style, list-making application.
   
   
-### [TickTick](https://ticktick.com/)
+#### [TickTick](https://ticktick.com/)
   
   Details:
   TickTick is one of the many to-do list apps available for Android, but its feature-set and presentation make it one of the leading champs.
 
-## Resources
+# Resources
 
-### [GitHub Student Developer Pack](https://education.github.com/pack)
+#### [GitHub Student Developer Pack](https://education.github.com/pack)
   
   Details:
   Learn to ship software like a pro. There's no substitute for hands-on experience. But for most students, real world tools can be cost-prohibitive. That's why we created the GitHub Student Developer Pack with some of our partners and friends. 
   
-### [MDN Web Docs](https://developer.mozilla.org/en-US/)
+#### [MDN Web Docs](https://developer.mozilla.org/en-US/)
   
   Details:
   Mozilla Developer Network, formerly Mozilla Developer Center, is the official Mozilla website for development documentation of web standards and Mozilla projects.
 
-### [Linkedin](https://www.linkedin.com/)
+#### [Linkedin](https://www.linkedin.com/)
   
   Details:
   Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.
   
-### [StackOverflow](https://stackoverflow.com/)
+#### [StackOverflow](https://stackoverflow.com/)
   
   Details:
   Stack Overflow is a question and answer website for professional and enthusiast programmers.
 
-## Support and Contact
+# Support and Contact
 
 updated as of: 17 FEB 2022
 
