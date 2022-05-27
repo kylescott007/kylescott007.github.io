@@ -69,6 +69,10 @@ The following is a curated list of links and details of tools, resources, and ed
   1. [Rec: Data Analytics](https://learning.oreilly.com/playlists/a4814243-8b86-4862-ba50-990e29d8963f)
   2. [Rec: Data Science using Python and SQL](https://learning.oreilly.com/playlists/8de08fb3-37e4-46ad-8fca-0d78fc2d25e8)
   
+  Now with courses:
+  1. [Data/ML Engineer](https://learning.oreilly.com/courses/dataml-engineer/)
+  2. [Business Analyst](https://learning.oreilly.com/courses/business-analyst/)
+  
 #### [M.I.T. Open Courseware](https://ocw.mit.edu/)
   No account needed to use this awsome place.
   
