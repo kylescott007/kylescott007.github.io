@@ -8,8 +8,8 @@ The following is a curated list of links and details of tools, resources, and ed
 
 # Education Hubs
 
-#### [MWR Digital Library](https://www.militaryonesourceconnect.org/achievesolutions/en/militaryonesource/Content.do?contentId=27777)
-  Requires Military One Source [account](https://www.militaryonesource.mil/).
+#### [MWR Digital Library](https://www.dodmwrlibraries.org/)
+  Requires Military One Source [account](https://www.dodmwrlibraries.org/aafes/login).
   
   Details:
   Select from the featured items or use the search app to access online books, films, music and more. All of the libraries are free for active duty service members, veterans in transition, and immediate family.
@@ -274,7 +274,7 @@ The following is a curated list of links and details of tools, resources, and ed
 
 # Support and Contact
 
-updated as of: 04 APR 2022
+updated as of: 13 JUL 2022
 
 Having trouble with any links or questions about the content. Just leave an [issue](https://github.com/kylescott007/kylescott007.github.io/issues) and I can answer any need. Thanks!
 
