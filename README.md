@@ -57,6 +57,7 @@ The following is a curated list of links and details of tools, resources, and ed
   14. [Machine Learning Engineer](https://digitalu.udemy.com/learning-paths/450804/)
   15. [Python Learning](https://digitalu.udemy.com/learning-paths/807822/)
   16. [CompTIA Cloud+](https://digitalu.udemy.com/learning-paths/839594/)
+  17. [ARC Studies](https://digitalu.udemy.com/learning-paths/4192872/)
   
 #### [O'Reilly Learning Online](https://learning.oreilly.com/)
   sign-up [link](https://www.oreilly.com/self-registration/dod-mwr-libraries-all-services/)
