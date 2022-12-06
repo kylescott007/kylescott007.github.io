@@ -57,7 +57,6 @@ The following is a curated list of links and details of tools, resources, and ed
   14. [Machine Learning Engineer](https://digitalu.udemy.com/learning-paths/450804/)
   15. [Python Learning](https://digitalu.udemy.com/learning-paths/807822/)
   16. [CompTIA Cloud+](https://digitalu.udemy.com/learning-paths/839594/)
-  17. [Practical Data Science Curriculum](https://digitalu.udemy.com/learning-paths/2332672/)
   
 #### [O'Reilly Learning Online](https://learning.oreilly.com/)
   sign-up [link](https://www.oreilly.com/self-registration/dod-mwr-libraries-all-services/)
@@ -274,7 +273,7 @@ The following is a curated list of links and details of tools, resources, and ed
 
 # Support and Contact
 
-updated as of: 13 JUL 2022
+updated as of: 06 DEC 2022
 
 Having trouble with any links or questions about the content. Just leave an [issue](https://github.com/kylescott007/kylescott007.github.io/issues) and I can answer any need. Thanks!
 
