@@ -1,5 +1,5 @@
-# Welcome to the Analysts Tool Belt
-An analysts one-stop shop.
+# Welcome to the Analyst's Tool Belt
+An analyst's one-stop shop.
 
 # Notice
 The following is a curated list of links and details of tools, resources, and education hubs. This will not only include information and academics for analytics but, many great resources that benefit you and your pursuit in knowledge.
