@@ -1,8 +1,10 @@
-# Welcome to the Analyst's Tool Belt
-An analyst's one-stop shop.
+# Welcome to the Analyst's Tool Belt 
 
-# Notice
-The following is a curated list of links and details of tools, resources, and education hubs. This will not only include information and academics for analytics but, many great resources that benefit you and your pursuit in knowledge.
+The Analyst's one-stop shop. 
+
+# Notice 
+
+The following is a curated list of links and details of tools, resources, and education hubs. This will not only include information and academics for analytics but many great resources that benefit you and your pursuit of knowledge.  
 
 ---
 
@@ -70,8 +72,7 @@ The following is a curated list of links and details of tools, resources, and ed
   2. [Rec: Data Science using Python and SQL](https://learning.oreilly.com/playlists/8de08fb3-37e4-46ad-8fca-0d78fc2d25e8)
   
   Now with courses:
-  1. [Data/ML Engineer](https://learning.oreilly.com/courses/dataml-engineer/)
-  2. [Business Analyst](https://learning.oreilly.com/courses/business-analyst/)
+  1. [REC: Data Driven Analytics and Sciences Courses](https://learning.oreilly.com/playlists/9e747e91-7969-453d-8b8f-125a03f8f6d1)
   
 #### [M.I.T. Open Courseware](https://ocw.mit.edu/)
   No account needed to use this awsome place.
@@ -274,7 +275,7 @@ The following is a curated list of links and details of tools, resources, and ed
 
 # Support and Contact
 
-updated as of: 06 DEC 2022
+updated as of: 27 JAN 2023
 
 Having trouble with any links or questions about the content. Just leave an [issue](https://github.com/kylescott007/kylescott007.github.io/issues) and I can answer any need. Thanks!
 
