@@ -76,14 +76,14 @@ DigitalU provides access to the biggest library of tech training in the world an
 
 Including the following:
 
-	1. [Udemy](https://digitalu.udemy.com/organization/home/) 
-	2. [Udacity](https://www.udacity.com/)
-	3. [DataCamp](https://app.datacamp.com/)
-	4. [Pluralsight](https://app.pluralsight.com/)
-	5. [CloudAcademy](https://cloudacademy.com/)
-	6. [Workera](https://workera.ai/)
-	7. [Coursera](https://www.coursera.org/)
-	8. [Hack_EDU](https://www.securityjourney.com/)
+1. [Udemy](https://digitalu.udemy.com/organization/home/) 
+2. [Udacity](https://www.udacity.com/)
+3. [DataCamp](https://app.datacamp.com/)
+4. [Pluralsight](https://app.pluralsight.com/)
+5. [CloudAcademy](https://cloudacademy.com/)
+6. [Workera](https://workera.ai/)
+7. [Coursera](https://www.coursera.org/)
+8. [Hack_EDU](https://www.securityjourney.com/)
 
 Note:
 Access to the subscriptions above requires account creation and course sign-up through DigitalU first.
