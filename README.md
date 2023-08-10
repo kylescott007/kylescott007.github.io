@@ -67,7 +67,7 @@ The following is a curated list of tools, resources, and education hubs, highlig
 
 
 
-#### [DigitalU](https://digitalu.udemy.com/organization/home/) 
+#### [DigitalU](https://digitalu.af.mil/) 
 
 Description: 
 Provides anytime access to Silicon Valley accredited technology training to the members of US Air Force and Space Force.
